@@ -11,9 +11,14 @@ Update product:
 ![image](https://user-images.githubusercontent.com/85856732/180345173-3df77504-e306-4d4c-80fa-301fa00f34f6.png)
 
 
+
+
 ## Orders Management
 ![image](https://user-images.githubusercontent.com/85856732/180343953-46407d28-a97d-447e-8b81-2b0b301875e0.png)
 ![image](https://user-images.githubusercontent.com/85856732/180344345-28b3551c-6299-4bdb-bd68-4d9be2e253c9.png)
+
+
+
 
 ## Customers Management
 ![image](https://user-images.githubusercontent.com/85856732/180345374-aa04348a-294d-4a26-a6be-7d3b55eb2643.png)
